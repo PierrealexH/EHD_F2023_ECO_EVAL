@@ -1,0 +1,23 @@
+---
+CU_RA: 0.20
+MO_RA_AF: 0.03
+IVV: 385
+MO_RA_Y: 0.096
+PR_MA: 0.50
+LA_VAL_AF: 1885
+LA_VAL_JM: 1400
+LA_VAL_JF: 1200
+ugb_by_cow: 1.7          # ex. 1.7 UGB par vache
+cout_alim_ugb: 250
+cout_elevage_ugb: 140
+COST_VET_D: 0
+SH_REDIRECT: 0.0
+DPRICE_ABS: 0.0
+SH_BLOCK: 0.0
+C_DAY_BRD: 0.0
+D_BLOCK: 0
+SH_PCR: 0.0
+C_PCR: 0.0
+
+
+
